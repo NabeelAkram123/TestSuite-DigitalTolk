@@ -1,0 +1,15 @@
+{
+  "extends": "standard",
+  "plugins": [
+    "cypress",
+    "chai-friendly"
+  ],
+  "ignorePatterns": ["temp.js", "**/examples/*.js"],
+  "rules": {
+    "chai-friendly/no-unused-expressions": 2,
+    "import/no-absolute-path": 0
+  },
+  "env": {
+    "cypress/globals": true
+  }
+}
