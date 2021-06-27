@@ -1,0 +1,14 @@
+{
+  "Customer": {
+    "email": "georginacustomer@dt.test ",
+    "password": "Test123$"
+  },
+  "Translator": {
+    "email": "georginatranslator@dt.test",
+    "password": "Test123$"
+  },
+  "InavlidCardential": {
+    "email": "georginatranslator@dt.test",
+    "password": "Test123$32"
+  }
+}

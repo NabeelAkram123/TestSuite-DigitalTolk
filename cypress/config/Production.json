@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://ct.digitaltolk.se/login",
+    "env": {
+      "Base": "https://ct.digitaltolk.se/",
+      "Login":"https://ct.digitaltolk.se/login",
+      "MyBooking":"ttps://www.digitaltolk.se/customer/bookings"
+    }
+  }
+  
